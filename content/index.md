@@ -2,5 +2,5 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+In future updates, you can simply run `npx quartz sync` every time you want to push updates to your repository.
+
