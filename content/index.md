@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Digital Clutter
 ---
 Digital clutter coming soon :) 
 
