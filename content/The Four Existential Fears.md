@@ -7,6 +7,8 @@ tags:
 ## Fear of Death
 >"Religion may have been created when we first became smart enough that we knew we were going to die." <cite>Brittney Hartley, No Nonsense Spirituality</cite>
 
+See also: [[Terror Management Theory]]
+
 ## Fear of Freedom
 >"If all cult leaders died today, we would recreate them tomorrow because it's so much easier to give your moral compass and life to someone else who seems trustworthy than to accept that you are ultimately responsible for your own choices." <cite>Brittney Hartley, No Nonsense Spirituality</cite>
 
