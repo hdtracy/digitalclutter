@@ -7,16 +7,16 @@ Hi. I recently created this public digital garden that more closely resembles wh
 
 ---
 #### Recently Updated Notes:
-| File                                                                                            | Last modified |
-| ----------------------------------------------------------------------------------------------- | ------------- |
-| [[content/index\|index]]                                                                     | 12.13.2024    |
-| [[content/Dataview Snippets\|Dataview Snippets]]                                             | 12.13.2024    |
-| [[content/Dataview\|Dataview]]                                                               | 12.13.2024    |
-| [[content/Book List\|Book List]]                                                             | 12.13.2024    |
-| [[content/Confirmation Bias\|Confirmation Bias]]                                             | 12.13.2024    |
-| [[content/Books/Godless by Dan Barker\|Godless by Dan Barker]]                               | 12.13.2024    |
-| [[content/Books/Project Hail Mary by Andy Weir\|Project Hail Mary by Andy Weir]]             | 12.13.2024    |
-| [[content/Books/The Righteous Mind by Jonathan Haidt\|The Righteous Mind by Jonathan Haidt]] | 12.13.2024    |
-| [[templates/Person\|Person]]                                                                 | 12.13.2024    |
-| [[templates/Sample Page\|Sample Page]]                                                       | 12.13.2024    |
+| File                                                                                | Last modified |
+| ----------------------------------------------------------------------------------- | ------------- |
+| [[content/Selective Exposure\|Selective Exposure]]                               | 12.13.2024    |
+| [[content/Johnny Decimal System\|Johnny Decimal System]]                         | 12.13.2024    |
+| [[content/Fediverse\|Fediverse]]                                                 | 12.13.2024    |
+| [[content/Logical Fallacies\|Logical Fallacies]]                                 | 12.13.2024    |
+| [[content/Storming, Norming, and Performing\|Storming, Norming, and Performing]] | 12.13.2024    |
+| [[content/The Younger Generation\|The Younger Generation]]                       | 12.13.2024    |
+| [[content/Mastodon\|Mastodon]]                                                   | 12.13.2024    |
+| [[content/Philosophical Razor\|Philosophical Razor]]                             | 12.13.2024    |
+| [[content/index\|index]]                                                         | 12.13.2024    |
+| [[content/Dataview Snippets\|Dataview Snippets]]                                 | 12.13.2024    |
 
