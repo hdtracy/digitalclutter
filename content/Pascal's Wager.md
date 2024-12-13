@@ -2,13 +2,10 @@
 title: Pascal's Wager
 draft: false
 tags:
+  - philosophy
+  - religion
+up: "[[Deconstruction Resources]]"
 ---
->[!meta]
->area:: personal
-topic:: hell
-aliases:: philosophy, religion
-up:: [[Deconstruction Resources]]
-
 # Pascal’s Wager
 [[Pascal’s Wager]] argues that a rational person should live as though God exists and seek to believe in God. 
 
