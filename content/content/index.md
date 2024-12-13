@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":null,"draft":false,"PassFrontmatter":true,"created":"2024-12-13T14:32:05.520-06:00","updated":"2024-12-13T15:14:45.791-06:00"}
+{"publish":true,"title":null,"draft":false,"PassFrontmatter":true,"created":"2024-12-13T15:14:45.791-06:00","updated":"2024-12-13T15:14:45.791-06:00"}
 ---
 
 Hi. I recently created this public digital garden that more closely resembles what I refer to as [[digital clutter\|digital clutter]] than a true garden. I also recently deleted the entire contents of the site by mistake. Oops. If you see any pages here, it means I've not given up entirely and decided to rebuild. Yay me. 
