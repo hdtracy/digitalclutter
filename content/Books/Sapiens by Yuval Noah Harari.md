@@ -4,6 +4,7 @@ draft: false
 tags:
   - book
 author: Yuval Noah Harari
+publish: true
 ---
  # Sapiens
 

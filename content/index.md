@@ -1,5 +1,6 @@
 ---
 title: Digital Clutter
+publish: true
 ---
 I hesitate to call this a [[Digital Gardens|digital garden]], as the phrase brings up mental images of beautifully laid plans and interwoven tapestries of information. In reality, what this is more likely to amount to, is a sort of [[digital clutter]] trail of my mind that I'll hastily try to tidy enough to be presentable to the void. 
 

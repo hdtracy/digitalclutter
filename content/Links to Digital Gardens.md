@@ -1,7 +1,8 @@
 ---
 title: Links to Digital Gardens
 draft: false
-tags:
+tags: 
+publish: "true"
 ---
 Links to some of my favorite [[Digital Gardens]] to revisit:
  
@@ -13,4 +14,5 @@ Links to some of my favorite [[Digital Gardens]] to revisit:
 - Leah Ferguson: https://notes.leahferguson.com/Home 
 - Jacky: https://jzhao.xyz/
 - Chad: https://mister-chad.com/welcome
+- Hermitage: https://hermitage.utsob.me/
 

@@ -1,7 +1,8 @@
 ---
 title: Philosophy
 draft: false
-tags:
+tags: 
+publish: true
 ---
 ```dataview
 LIST 

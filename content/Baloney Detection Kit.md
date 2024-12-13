@@ -1,7 +1,8 @@
 ---
 title: Baloney Detection Kit
 draft: false
-tags:
+tags: 
+publish: "true"
 ---
 Necessary cognitive fortification against [[propaganda]], [[pseudoscience]], and general falsehood by [[Carl Sagan]] in his book [[The Demon-Haunted World by Carl Sagan|The Demon-Haunted World]]. 
 

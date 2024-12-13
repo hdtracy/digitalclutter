@@ -4,6 +4,7 @@ draft: false
 tags:
   - book
 author: Brittney Hartley
+publish: true
 ---
  
 # No Nonsense Spirituality

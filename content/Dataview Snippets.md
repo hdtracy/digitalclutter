@@ -5,6 +5,7 @@ tags:
   - dataview
   - obsidian
 up: "[[Dataview]]"
+publish: true
 ---
 # Dataview Snippets
 

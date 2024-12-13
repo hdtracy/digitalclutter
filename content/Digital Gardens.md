@@ -1,7 +1,8 @@
 ---
 title: Digital Gardens
 draft: false
-tags:
+tags: 
+publish: "true"
 ---
 [[Links to Digital Gardens|Links to some of my favorite digital gardens]]
 

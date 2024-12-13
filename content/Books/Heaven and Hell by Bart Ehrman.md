@@ -4,6 +4,7 @@ draft: false
 tags:
   - book
 author: Bart Ehrman
+publish: true
 ---
 # Heaven and Hell
 

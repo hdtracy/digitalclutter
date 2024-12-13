@@ -4,6 +4,7 @@ draft: false
 tags:
   - book
 author: Andy Weir
+publish: true
 ---
 # Project Hail Mary
 

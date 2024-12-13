@@ -1,7 +1,8 @@
 ---
 title: Confirmation Bias
 draft: false
-tags:
+tags: 
+publish: true
 ---
 >“The human understanding when it has once adopted an opinion (either as being the received opinion or as being agreeable to itself) draws all things else to support and agree with it.”
      – *Francis Bacon*

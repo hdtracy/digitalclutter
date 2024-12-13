@@ -1,9 +1,9 @@
 ---
 title: Deconstruction Resources
 draft: false
-tags:
+tags: 
+publish: true
 ---
- 
 ## Articles
 - [Spectrum of theistic probability - Wikipedia](https://en.m.wikipedia.org/wiki/Spectrum_of_theistic_probability)
 - [[Sufficient Reasons]]
