@@ -8,3 +8,15 @@ Dataview is a live index and query engine over your personal knowledge base. You
 ```dataview
 LIST FROM #dataview
 ```
+
+List from a tag  
+<%*  
+const dv = app.plugins.plugins["dataview"].api;  
+const query = 'list From #dataview';  
+let out = await dv.queryMarkdown(query)  
+tR += out.value
+%>
+
+
+Serialized:
+<!-- QueryToSerialize: LIST FROM #dataview SORT file.name ASC -->
