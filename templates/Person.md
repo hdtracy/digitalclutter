@@ -3,6 +3,7 @@ url: Example Title
 draft: true
 tags:
   - person
-type:
+type: 
+publish: false
 ---
  

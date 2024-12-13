@@ -3,6 +3,7 @@ title: Example Title
 draft: true
 tags:
   - book
-author:
+author: 
+publish: false
 ---
  
