@@ -1,5 +1,5 @@
 ---
-{"title":"Selective Exposure","draft":false,"tags":null,"publish":true,"PassFrontmatter":true,"created":"2024-12-13T15:06:34.945-06:00","updated":"2024-12-13T15:06:52.467-06:00"}
+{"title":"Selective Exposure","draft":false,"tags":null,"publish":true,"PassFrontmatter":true,"created":"2024-12-13T15:06:52.467-06:00","updated":"2024-12-13T15:06:52.467-06:00"}
 ---
 
 Selective exposure has also been known and defined as "congeniality bias" or [[content/Confirmation Bias\|Confirmation Bias]] in various texts throughout the years.

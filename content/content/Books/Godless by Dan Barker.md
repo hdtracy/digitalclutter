@@ -1,5 +1,5 @@
 ---
-{"title":"Godless by Dan Barker","draft":false,"tags":["book"],"author":"Dan Barker","publish":true,"PassFrontmatter":true,"created":"2024-12-13T14:46:46.660-06:00","updated":"2024-12-13T14:47:11.891-06:00"}
+{"title":"Godless by Dan Barker","draft":false,"tags":["book"],"author":"Dan Barker","publish":true,"PassFrontmatter":true,"created":"2024-12-13T14:47:11.891-06:00","updated":"2024-12-13T14:47:11.891-06:00"}
 ---
 
 ## Highlights

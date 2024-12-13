@@ -1,5 +1,5 @@
 ---
-{"title":"The Younger Generation","draft":false,"tags":["philosophy"],"publish":true,"PassFrontmatter":true,"created":"2024-12-13T15:02:07.832-06:00","updated":"2024-12-13T15:02:32.398-06:00"}
+{"title":"The Younger Generation","draft":false,"tags":["philosophy"],"publish":true,"PassFrontmatter":true,"created":"2024-12-13T15:02:32.398-06:00","updated":"2024-12-13T15:02:32.398-06:00"}
 ---
 
 >They (Young People) have exalted notions, because they have not been humbled by life or learned its necessary limitations; moreover, their hopeful disposition makes them think themselves equal to great things -- and that means having exalted notions. They would always rather do noble deeds than useful ones: Their lives are regulated more by moral feeling than by reasoning -- all their mistakes are in the direction of doing things excessively and vehemently. They overdo everything -- they love too much, hate too much, and the same with everything else.

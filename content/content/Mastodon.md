@@ -1,5 +1,5 @@
 ---
-{"title":"Mastodon","draft":false,"tags":null,"publish":true,"PassFrontmatter":true,"created":"2024-12-13T15:01:24.185-06:00","updated":"2024-12-13T15:01:43.760-06:00"}
+{"title":"Mastodon","draft":false,"tags":null,"publish":true,"PassFrontmatter":true,"created":"2024-12-13T15:01:43.760-06:00","updated":"2024-12-13T15:01:43.760-06:00"}
 ---
 
 **Mastodon** is the world's largest free, open-source, decentralized microblogging network.

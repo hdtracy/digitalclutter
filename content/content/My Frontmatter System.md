@@ -1,5 +1,5 @@
 ---
-{"title":"My Frontmatter System","draft":false,"tags":["obsidian"],"publish":true,"PassFrontmatter":true,"created":"2024-12-13T15:11:31.550-06:00","updated":"2024-12-13T15:12:00.806-06:00"}
+{"title":"My Frontmatter System","draft":false,"tags":["obsidian"],"publish":true,"PassFrontmatter":true,"created":"2024-12-13T15:12:00.806-06:00","updated":"2024-12-13T15:12:00.806-06:00"}
 ---
 
 ###### Utility Frontmatter

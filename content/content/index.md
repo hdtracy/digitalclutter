@@ -9,6 +9,9 @@ Hi. I recently created this public digital garden that more closely resembles wh
 #### Recently Updated Notes:
 | File                                                                                | Last modified |
 | ----------------------------------------------------------------------------------- | ------------- |
+| [[content/Reference/Obsidian Toggl Integration\|Obsidian Toggl Integration]]     | 12.13.2024    |
+| [[content/Obsidian Plugins\|Obsidian Plugins]]                                   | 12.13.2024    |
+| [[content/Reference/PodNotes\|PodNotes]]                                         | 12.13.2024    |
 | [[content/index\|index]]                                                         | 12.13.2024    |
 | [[content/My Frontmatter System\|My Frontmatter System]]                         | 12.13.2024    |
 | [[content/Selective Exposure\|Selective Exposure]]                               | 12.13.2024    |
@@ -16,7 +19,4 @@ Hi. I recently created this public digital garden that more closely resembles wh
 | [[content/Fediverse\|Fediverse]]                                                 | 12.13.2024    |
 | [[content/Logical Fallacies\|Logical Fallacies]]                                 | 12.13.2024    |
 | [[content/Storming, Norming, and Performing\|Storming, Norming, and Performing]] | 12.13.2024    |
-| [[content/The Younger Generation\|The Younger Generation]]                       | 12.13.2024    |
-| [[content/Mastodon\|Mastodon]]                                                   | 12.13.2024    |
-| [[content/Philosophical Razor\|Philosophical Razor]]                             | 12.13.2024    |
 

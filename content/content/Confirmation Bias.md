@@ -1,5 +1,5 @@
 ---
-{"title":"Confirmation Bias","draft":false,"tags":null,"publish":true,"PassFrontmatter":true,"created":"2024-12-13T14:47:31.636-06:00","updated":"2024-12-13T14:47:50.983-06:00"}
+{"title":"Confirmation Bias","draft":false,"tags":null,"publish":true,"PassFrontmatter":true,"created":"2024-12-13T14:47:50.983-06:00","updated":"2024-12-13T14:47:50.983-06:00"}
 ---
 
  >“The human understanding when it has once adopted an opinion (either as being the received opinion or as being agreeable to itself) draws all things else to support and agree with it.”

@@ -1,5 +1,5 @@
 ---
-{"title":"The Righteous Mind by Jonathan Haidt","draft":false,"tags":["book"],"author":"Jonathan Haidt","publish":true,"PassFrontmatter":true,"created":"2024-12-13T14:44:06.473-06:00","updated":"2024-12-13T14:45:13.139-06:00"}
+{"title":"The Righteous Mind by Jonathan Haidt","draft":false,"tags":["book"],"author":"Jonathan Haidt","publish":true,"PassFrontmatter":true,"created":"2024-12-13T14:45:13.139-06:00","updated":"2024-12-13T14:45:13.139-06:00"}
 ---
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/190951684/usxkfXAN5gh-SKFliUPK97kzzY3glCOJ-TVLJ0vg4aQ-cove_RahpWzw.jpg)

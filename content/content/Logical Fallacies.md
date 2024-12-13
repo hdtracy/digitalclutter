@@ -1,5 +1,5 @@
 ---
-{"title":"Logical Fallacies","draft":false,"tags":null,"publish":true,"PassFrontmatter":true,"created":"2024-12-13T15:03:32.925-06:00","updated":"2024-12-13T15:03:57.928-06:00"}
+{"title":"Logical Fallacies","draft":false,"tags":null,"publish":true,"PassFrontmatter":true,"created":"2024-12-13T15:03:57.928-06:00","updated":"2024-12-13T15:03:57.928-06:00"}
 ---
 
 # Logical Fallacies

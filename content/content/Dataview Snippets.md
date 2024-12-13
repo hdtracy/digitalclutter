@@ -1,5 +1,5 @@
 ---
-{"title":"Dataview Snippets","draft":false,"tags":["dataview","obsidian"],"publish":true,"PassFrontmatter":true,"created":"2024-12-13T14:37:28.561-06:00","updated":"2024-12-13T14:51:34.390-06:00"}
+{"title":"Dataview Snippets","draft":false,"tags":["dataview","obsidian"],"publish":true,"PassFrontmatter":true,"created":"2024-12-13T14:51:34.390-06:00","updated":"2024-12-13T14:51:34.390-06:00"}
 ---
 
 # Dataview Snippets
