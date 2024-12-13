@@ -3,7 +3,7 @@ title: The Four Existential Fears
 draft: false
 tags:
 ---
- In the book [[No Nonsense Spirituality by Brittney Hartley]], the author describes four existential fears that all humans carry.
+In the book [[No Nonsense Spirituality by Brittney Hartley]], the author describes four existential fears that all humans carry.
 ## Fear of Death
 >"Religion may have been created when we first became smart enough that we knew we were going to die." <cite>Brittney Hartley, No Nonsense Spirituality</cite>
 
