@@ -1,5 +1,5 @@
 ---
-{"title":"Baloney Detection Kit","draft":false,"tags":null,"publish":true,"PassFrontmatter":true,"updated":"2024-12-13T14:00:49.090-06:00"}
+{"title":"Baloney Detection Kit","draft":false,"tags":null,"publish":true,"PassFrontmatter":true,"created":"2024-12-11T12:52:42.334-06:00","updated":"2024-12-13T14:00:49.090-06:00"}
 ---
 
 Necessary cognitive fortification against [[propaganda\|propaganda]], [[pseudoscience\|pseudoscience]], and general falsehood by [[Carl Sagan\|Carl Sagan]] in his book [[The Demon-Haunted World by Carl Sagan\|The Demon-Haunted World]]. 
