@@ -29,4 +29,4 @@ Links from the [[Street Epistemology]] website:
 
 
 ---
-*See also*: [[Critical Thinking]], [[Progressive Christianity]], [[Deconstruction Resources]]
+*See also*: [[Street Epistemology Questions]], [[Deconstruction Resources]]
