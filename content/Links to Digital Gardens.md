@@ -5,7 +5,7 @@ tags:
 ---
 Links to some of my favorite [[Digital Gardens]] to revisit:
  
-- Nicole van der Hoeven:  https://notes.nicolevanderhoeven.com/Fork+My+Brain
+- [[Nicole van der Hoeven]]:  https://notes.nicolevanderhoeven.com/Fork+My+Brain
 - Nick Groenen: https://nick.groenen.me/ 
 - Maggie Appleton: https://maggieappleton.com/ 
 - Paras Chopra:  https://notes.invertedpassion.com/_Start+here_
