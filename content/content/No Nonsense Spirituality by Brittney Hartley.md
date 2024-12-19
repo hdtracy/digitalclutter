@@ -1,11 +1,11 @@
 ---
-{"title":"No Nonsense Spirituality by Brittney Hartley","draft":false,"tags":["book"],"author":"Brittney Hartley","publish":true,"PassFrontmatter":true,"created":"2024-12-19T13:53:21.544-06:00","updated":"2024-12-19T13:54:18.859-06:00"}
+{"title":"No Nonsense Spirituality by Brittney Hartley","draft":false,"tags":["book"],"author":"Brittney Hartley","publish":true,"PassFrontmatter":true,"created":"2024-12-19T13:53:21.544-06:00","updated":"2024-12-19T13:57:36.479-06:00"}
 ---
 
 ![rw-book-cover](https://m.media-amazon.com/images/I/912BLIvYAtL._SY160.jpg)
 
 ## Metadata
-- Author: [[Brittney Hartley\|Brittney Hartley]]
+- Author: [[content/Brittney Hartley\|Brittney Hartley]]
 - Full Title: No Nonsense Spirituality: All the Tools, No Faith Required
 
 ## Highlights
@@ -70,3 +70,5 @@
 
 
 
+#### See Also:
+[[content/Secular Spirituality\|Secular Spirituality]]
