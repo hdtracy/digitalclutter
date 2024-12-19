@@ -4,7 +4,7 @@ draft: false
 tags: 
 publish: true
 ---
-[[Design thinking]] is a non-linear, iterative process that consists of 5 phases: 
+[[Design thinking|Design thinking]] is a non-linear, iterative process that consists of 5 phases: 
 1. Empathize, 
 2. Define, 
 3. Ideate, 

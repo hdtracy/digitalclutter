@@ -3,14 +3,14 @@ title: Godless by Dan Barker
 draft: false
 tags:
   - book
-share: false
+publish: true
 ---
 # Godless
 
 ![rw-book-cover](https://books.google.com/books/content?id=fAjPWYgIfCoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=public)
 
 ## Metadata
-- Author: [[Dan Barker]]
+- Author: [[Dan Barker|Dan Barker]]
 - Full Title: Godless
 - URL: https://www.kobo.com/ebook/godless-24
 

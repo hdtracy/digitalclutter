@@ -1,8 +1,8 @@
 ---
 title: Example Title
-draft: false
+draft: true
 tags: 
-share: false
+publish: false
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)
