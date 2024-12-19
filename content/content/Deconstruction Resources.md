@@ -1,5 +1,5 @@
 ---
-{"title":"Deconstruction Resources","draft":false,"tags":["moc"],"publish":true,"PassFrontmatter":true,"created":"2024-12-19T15:02:14.777-06:00","updated":"2024-12-19T15:02:31.501-06:00"}
+{"title":"Deconstruction Resources","draft":false,"tags":["moc","religion"],"publish":true,"PassFrontmatter":true,"created":"2024-12-19T15:02:14.777-06:00","updated":"2024-12-19T15:24:35.276-06:00"}
 ---
 
 ## Articles

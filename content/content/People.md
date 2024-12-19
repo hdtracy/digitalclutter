@@ -3,7 +3,7 @@
 ---
 
 A list of the people mentioned in this digital garden. People are likely to include authors, content creators, or other notable figures. 
+- [[content/People/Bart Ehrman\|Bart Ehrman]]
 - [[content/People/Brittney Hartley\|Brittney Hartley]]
 - [[content/People/Nicole van der Hoeven\|Nicole van der Hoeven]]
-- [[content/People/Bart Ehrman\|Bart Ehrman]]
 

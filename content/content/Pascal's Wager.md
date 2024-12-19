@@ -1,5 +1,5 @@
 ---
-{"title":"Pascal's Wager","draft":false,"tags":null,"publish":true,"PassFrontmatter":true,"created":"2024-12-19T15:12:53.607-06:00","updated":"2024-12-19T15:13:05.967-06:00"}
+{"title":"Pascal's Wager","draft":false,"tags":["religion"],"publish":true,"PassFrontmatter":true,"created":"2024-12-19T15:12:53.607-06:00","updated":"2024-12-19T15:24:26.865-06:00"}
 ---
 
 [[Pascal’s Wager\|Pascal’s Wager]] argues that a rational person should live as though God exists and seek to believe in God. 
