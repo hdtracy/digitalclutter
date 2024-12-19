@@ -1,6 +1,3 @@
----
-publish: true
----
 I hesitate to call this a digital garden, but, welcome to my digital clutter. 
 ![[pixeltrue-welcome-1.png]]
 ```dataview
