@@ -3,11 +3,11 @@
 ---
 
 A list of the book notes and highlights that I've collected. 
-- [[content/Godless by Dan Barker\|Godless by Dan Barker]]
-- [[content/No Nonsense Spirituality by Brittney Hartley\|No Nonsense Spirituality by Brittney Hartley]]
-- [[content/Project Hail Mary by Andy Weir\|Project Hail Mary by Andy Weir]]
-- [[content/Sapiens by Yuval Noah Harari\|Sapiens by Yuval Noah Harari]]
-- [[content/The Righteous Mind by Jonathan Haidt\|The Righteous Mind by Jonathan Haidt]]
+- [[content/Books/Godless by Dan Barker\|Godless by Dan Barker]]
+- [[content/Books/No Nonsense Spirituality by Brittney Hartley\|No Nonsense Spirituality by Brittney Hartley]]
+- [[content/Books/Project Hail Mary by Andy Weir\|Project Hail Mary by Andy Weir]]
+- [[content/Books/The Righteous Mind by Jonathan Haidt\|The Righteous Mind by Jonathan Haidt]]
+- [[content/Books/Sapiens by Yuval Noah Harari\|Sapiens by Yuval Noah Harari]]
 
 
 
