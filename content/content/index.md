@@ -7,5 +7,6 @@ Welcome to my digital clutter.
 
 ###### Not sure where to start? Try these pages to get a feel for what kinds of things I'm currently taking notes about. 
 - [[content/Book List\|Book List]]
+- [[content/Deconstruction Resources\|Deconstruction Resources]]
 
 
